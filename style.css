@@ -139,7 +139,9 @@ aside img{
 }
 
 aside .icons{
-    width: 100%;
+    width: 90%;
+    height: 60px;
+    margin: auto;
     /*لجعل العناصر في سطر واحد و في المنتصف
     display: flex;
     justify-content: center;
