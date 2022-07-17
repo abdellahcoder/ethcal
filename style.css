@@ -140,7 +140,7 @@ aside img{
 
 aside .icons{
     width: 90%;
-    height: 60px;
+    height: 50px;
     margin: auto;
     /*لجعل العناصر في سطر واحد و في المنتصف
     display: flex;
@@ -291,7 +291,7 @@ aside .icons{
     }
 }
 footer{
-    margin-top: 100px;
+    margin-top: 40px;
     text-align: center;
 }
 footer img{
