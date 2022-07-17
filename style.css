@@ -322,7 +322,8 @@ div{
     animation-name: changeBackground;
     animation-duration: 5s;
     animation-iteration-count: infinite;
-    padding-top: 10px;
+    padditransform: translate(0% , 10%);ng-top: 10px;
+    
 }
 /*هذه الاكواد قمت بتصميمها بنفسي لاستعملها لاحقا*/
 /*
